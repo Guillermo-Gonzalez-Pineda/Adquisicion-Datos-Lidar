@@ -1,0 +1,45 @@
+{
+ "coord": {
+  "lon": 11.438,
+  "lat": 48.771
+ },
+ "weather": [
+  {
+   "id": 803,
+   "main": "Clouds",
+   "description": "broken clouds",
+   "icon": "04d"
+  }
+ ],
+ "base": "stations",
+ "main": {
+  "temp": 7.12,
+  "feels_like": 6.32,
+  "temp_min": 5.75,
+  "temp_max": 8.09,
+  "pressure": 1022,
+  "humidity": 77,
+  "sea_level": 1022,
+  "grnd_level": 974
+ },
+ "visibility": 10000,
+ "wind": {
+  "speed": 1.54,
+  "deg": 0
+ },
+ "clouds": {
+  "all": 75
+ },
+ "dt": 1732711752,
+ "sys": {
+  "type": 2,
+  "id": 2021384,
+  "country": "DE",
+  "sunrise": 1732689674,
+  "sunset": 1732720986
+ },
+ "timezone": 3600,
+ "id": 2895992,
+ "name": "Ingolstadt",
+ "cod": 200
+}
